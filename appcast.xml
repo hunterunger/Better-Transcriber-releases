@@ -3,12 +3,12 @@
     <channel>
         <title>Better Transcriber</title>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Fri, 05 Jun 2026 13:48:39 -0600</pubDate>
-            <sparkle:version>10005</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <title>1.0.6</title>
+            <pubDate>Fri, 12 Jun 2026 13:04:45 -0600</pubDate>
+            <sparkle:version>10006</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hunterunger/Better-Transcriber-releases/releases/download/v1.0.5/Better-Transcriber-1.0.5.dmg" length="9678079" type="application/octet-stream" sparkle:edSignature="VSrJlkFmpwtbPCz91ifq9bxRbsAlCZVIjdSySk0auRJ2z0l3KBnqu3ZCx/wuLrRe7+2Sdsf9lsnp/rmd98jqAw=="/>
+            <enclosure url="https://github.com/hunterunger/Better-Transcriber-releases/releases/download/v1.0.6/Better-Transcriber-1.0.6.dmg" length="8861366" type="application/octet-stream" sparkle:edSignature="XD2dvre88mO/lbxpnpnf9lN4pF870NZHaj8Zb1fcZEjY4U3o6PE6EG9CWEzd7TO3FjgWyo3dE7PYCBIB2MkWCw=="/>
         </item>
     </channel>
 </rss>
